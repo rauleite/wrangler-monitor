@@ -1,0 +1,19 @@
+{
+  "name": "wrangler-monitor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauleite/wrangler-monitor.git"
+  },
+  "author": "Raul Leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rauleite/wrangler-monitor/issues"
+  },
+  "homepage": "https://github.com/rauleite/wrangler-monitor#readme"
+}
